@@ -1,0 +1,27 @@
+{
+  "name": "Lyrox V6 Boş",
+  "version": "0.0.1",
+  "description": "Lyrox Tarafınca Kodlanmıştır Çalınması Yasaktır.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "aoi.js": "^6.1.1",
+    "aoi.parser": "^1.2.5",
+    "i": "^0.3.7",
+    "npm": "^9.6.2"
+  },
+  "engines": {
+    "node": "16.6"
+  },
+  "repository": {
+    "url": "https://github/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
